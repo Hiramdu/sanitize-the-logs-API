@@ -1,4 +1,3 @@
-# Eightfold.ai challenge by Gaoyuan Du
 from datetime import datetime
 from dateutil import parser
 import statistics
